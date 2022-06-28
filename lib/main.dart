@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
               children: [
                 Image.asset('images/apple.png', width: 100,height: 100,),
                 Text('Text here'),
-                Image.asset('images/apple.png', width: 100,height: 100,),
+                //Image.asset('images/apple.png', width: 100,height: 100,),
 
               ],
             ),
